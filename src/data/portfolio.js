@@ -4,7 +4,7 @@ export default [
         imgUrl: '../assets/portfolio-stack-image.png',
         description: 'The website you\'re viewing right now was built with React, TailwindCSS, Vite, as well as npm, and is hosted on Github Pages. I will continue to update this site as I complete more projects, big or small, and gain more experience.',
         stack: ['React', 'Tailwind', 'Vite', 'Github Pages', 'npm'],
-        link: 'https://github.com/EliPreston/ep-portfolio'
+        link: 'https://github.com/EliPreston/portfolio'
     },
     {
         title: 'Spotify Playlist Scraper',
