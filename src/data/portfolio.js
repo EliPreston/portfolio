@@ -1,5 +1,19 @@
 export default [
     {
+        title: 'ProjeX: A Django Wep App',
+        imgUrl: 'assets/Django_Project_Screenshots.png',
+        description: 'ProjeX is a little project webapp built with Django and TailwindCSS that I have been working on. It allows users to sign up, sign on, and post projects publicly or post projects privately for only themselves to see.',
+        stack: ['Django (Python)', 'Tailwind', 'HTML', 'JS'],
+        link: 'https://github.com/EliPreston/ProjeX'
+    },
+    {
+        title: 'Maze Generation: Prim\'s Algorithm Implementation',
+        imgUrl: 'assets/maze-generation.png',
+        description: 'In June/July of 2024 I became very interested in how maze\'s can be programmatically generated and the associated algorithms. As a result I decided to try to implement one of these algorithms in C using the Raylib library.',
+        stack: ['C', 'Raylib library'],
+        link: 'https://github.com/EliPreston/Maze-Generation'
+    },
+    {
         title: 'Portfolio Web App',
         imgUrl: 'assets/portfolio-stack-image.png',
         description: 'The website you\'re viewing right now was built with React, TailwindCSS, Vite, as well as npm, and is hosted on Github Pages. I will continue to update this site as I complete more projects, big or small, and gain more experience.',
