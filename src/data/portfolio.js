@@ -21,11 +21,11 @@ export default [
         link: 'https://github.com/EliPreston/portfolio'
     },
     {
-        title: 'Spotify Playlist Scraper',
+        title: 'Spotify Playlist Copier',
         imgUrl: 'assets/spotify-developer.png',
-        description: 'Using Spotify\'s developer API, I created a Python script where I could enter anyone\'s user ID, send a request to the API, get back each of the user\'s playlists, and compile the data  into a JSON file.',
-        stack: ['Python', 'Requests', 'Spotify API'],
-        link: 'https://github.com/EliPreston/Python-Mini-Projects/tree/main/SpotifyAPI-Mini-Project'
+        description: 'Using Spotify\'s developer API, I created a Python script to copy a single or up to 50 public playlists from a Spotify user\'s account into my own account with each playlist having up to 100 songs',
+        stack: ['Python', 'Requests', 'spotipy'],
+        link: 'https://github.com/EliPreston/spotify-playlist-copier'
     },    
     {
         title: 'Java Audio App Simulator (text-based)',
