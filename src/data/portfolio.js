@@ -7,6 +7,13 @@ export default [
         link: 'https://github.com/EliPreston/ProjeX'
     },
     {
+        title: 'Visualizing Stock Prices Over the Holidays',
+        imgUrl: 'assets/Graphin_Stock_Data_Screenshots.png',
+        description: 'This project started as a result of me wondering if there is a visible pattern that stock close prices follow over the holiday season. This projet is still being worked on as I collect more data and do more analyses.',
+        stack: ['Python', 'JSON', 'matplotlib', 'API Requests'],
+        link: 'https://github.com/EliPreston/Collect-and-Graph-Stock-Data'
+    },
+    {
         title: 'Maze Generation: Prim\'s Algorithm Implementation',
         imgUrl: 'assets/maze-generation.png',
         description: 'In June/July of 2024 I became very interested in how maze\'s can be programmatically generated and the associated algorithms. As a result I decided to try to implement one of these algorithms in C using the Raylib library.',
