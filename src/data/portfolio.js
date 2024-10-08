@@ -9,7 +9,7 @@ export default [
     {
         title: 'Visualizing Stock Prices Over the Holidays',
         imgUrl: 'assets/Graphin_Stock_Data_Screenshots.png',
-        description: 'This project started as a result of me wondering if there is a visible pattern that stock close prices follow over the holiday season. This projet is still being worked on as I collect more data and do more analyses.',
+        description: 'This project started as a result of me wondering if there is a visible pattern that stock close prices follow over the holiday season. This project is still being worked on as I collect more data and do more analysis.',
         stack: ['Python', 'JSON', 'matplotlib', 'API Requests'],
         link: 'https://github.com/EliPreston/Collect-and-Graph-Stock-Data'
     },
